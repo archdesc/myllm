@@ -1,0 +1,8 @@
+datasets
+transformers
+torch
+accelerate
+einops
+tiktoken
+einops
+tensorboardX
