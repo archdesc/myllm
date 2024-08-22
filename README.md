@@ -11,6 +11,7 @@
 - [使用](#使用)
 - [Project Structure](#project-structure)
 - [Transformer Techniques](#transformer-techniques)
+- [参考资料及项目](#参考资料及项目)
 - [Contributing](#contributing)
 - [License](#license)
   
@@ -108,6 +109,12 @@ This project explores various techniques in transformer models, including:
 - **Feed-Forward Networks**: Incorporating feed-forward neural networks within the transformer blocks.
 - **Residual Connections**: Implementing residual connections to improve gradient flow.
 
+## 参考资料及项目
+- 数据
+  - 来源
+  - 预处理
+- tokenizer
+  
 
 ## License
 
