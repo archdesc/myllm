@@ -1,4 +1,4 @@
-# myllm
+# myllm - llm0
 从零开始构建语言模型。Create a large language model from scratch. 
 基于 https://github.com/jiahe7ay/MINI_LLM 修改的。
 目的是学习，探索大模型的构建，语言模型的不同方向，并打造一个10亿参数的基础模型。
